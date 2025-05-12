@@ -56,10 +56,7 @@
 | **To-Do List** | ✅ A simple CRUD-based task manager. | HTML, CSS, JavaScript |
 | **YouTube Clone** | 📺 Practice UI for YouTube. | HTML, CSS |
 
----
 
-
----
 
 ## 📫 Connect With Me
 
