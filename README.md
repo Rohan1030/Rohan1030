@@ -1,5 +1,3 @@
-<!-- README.md -->
-
 <h1 align="center">Hi there, I'm <span style="color:#facc15;">Rohan Kumar Sharma</span> 👋</h1>
 
 <p align="center">
@@ -19,15 +17,15 @@
 🎓 Pursuing **B.Tech in CSE** from **Parul University**  
 📚 CGPA: **7.08** (Till 5th Semester)  
 💻 Currently building **Cosmo Travel** and **Amazon Clone**  
-🔭 I specialize in the **MERN Stack**, with a strong base in **JavaScript** & **SQL**  
-🌱 Always learning new tech and improving my problem-solving skills  
+🔭 Specializing in the **MERN Stack**, with strong skills in **JavaScript** & **SQL**  
+🌱 Always learning new tech and solving real-world problems  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,html,css,tailwind" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,java,git,github" alt="Tech Stack" />
 </p>
 
 ---
@@ -85,12 +83,12 @@ To secure a role as a **MERN Stack Developer** where I can build scalable, innov
 
 ## 🏏 Hobbies & Interests
 
-- 🧠 Watching startup and tech news
+- 🧠 Watching startup and tech news  
 - 🏏 Playing cricket for fun and fitness
 
 ---
 
-⭐️ If you like my work, give me a star on GitHub and let’s connect!
+⭐️ *If you like my work, give me a star on GitHub and let’s connect!*
 
 
 
