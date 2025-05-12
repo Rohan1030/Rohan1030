@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#facc15;">Rohan Kumar Sharma</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Full-Stack+Developer+%7C+MERN+Stack+Expert;Passionate+about+Web+Development;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=FullStack+Developer+%7C+MERN+Stack+Expert;Passionate+about+Web+Development;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 ---
