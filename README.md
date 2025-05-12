@@ -54,22 +54,14 @@
 | **To-Do List** | ✅ A simple CRUD-based task manager. | HTML, CSS, JavaScript |
 | **YouTube Clone** | 📺 Practice UI for YouTube. | HTML, CSS |
 
----
 
-## 🎓 Certifications
-
-- 🎨 **Figma Bootcamp** – LetsUpgrade  
-- 💾 **MySQL Bootcamp** – LetsUpgrade  
-- 🌐 **Computer Networks** – NPTEL
-
----
 
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:rlrld02233@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Rohan1030/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
   <a href="https://github.com/Rohan1030"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
