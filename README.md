@@ -58,11 +58,6 @@
 
 ---
 
-## 🎓 Certifications
-
-- 🎨 **Figma Bootcamp** – LetsUpgrade  
-- 💾 **MySQL Bootcamp** – LetsUpgrade  
-- 🌐 **Computer Networks** – NPTEL
 
 ---
 
