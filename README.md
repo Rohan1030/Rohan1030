@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 🎓 Pursuing **B.Tech in CSE** from **Parul University**  
-📚 CGPA: **7.08** (Till 5th Semester)  
+📚 CGPA: **7.25** (Till 5th Semester)  
 💻 Currently building **Cosmo Travel** and **Amazon Clone**  
 🔭 Specializing in the **MERN Stack**, with strong skills in **JavaScript** & **SQL**  
 🌱 Always learning new tech and solving real-world problems  
