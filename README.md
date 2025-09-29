@@ -1,10 +1,17 @@
-<!-- Animated Banner -->
+<!-- Animated Programmer Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm Rohan Kumar Sharma</h1>
+<h1 align="center">👋 Hi, I'm Rohan Kumar Sharma</h1>
 <h3 align="center">🚀 MERN Stack Developer | 🤖 AI-Assisted Development | 🌍 Open Source Enthusiast</h3>
+
+---
+
+<!-- Matrix Animation -->
+<p align="center">
+  <img src="https://i.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="600" height="300" />
+</p>
 
 ---
 
@@ -17,11 +24,11 @@
 
 ---
 
-## 👨‍💻 About Me  
-- 🎓 B.Tech in **Computer Science @ Parul University, Gujarat**  
+## 👨‍🎓 About Me  
+- 🎓 **B.Tech in Computer Science @ Parul University, Gujarat (CGPA: 7.25)**  
 - 💻 Passionate about **MERN Stack** & **AI-assisted coding**  
-- 🧠 Skilled in **DSA, REST APIs, Git/GitHub**  
-- 🔬 Exploring **AI Agents, OpenAI, and Lyzr**  
+- 🧠 Skilled in **DSA, OOP, DBMS, OS, CN, REST APIs**  
+- 🔬 Exploring **AI Agents, OpenAI, and Lyzr** to boost productivity  
 - ⚡ Love building **responsive web apps** & solving real-world problems  
 
 ---
@@ -29,25 +36,47 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,mongodb,mysql,java,javascript,git,github,vscode,postman,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,sql,html,css,tailwind,react,nodejs,express,mongodb,mysql,supabase,git,github,vscode,postman,figma,netlify&theme=dark" />
 </p>
 
----
-
-## 🚀 Featured Projects  
-
-🔹 **[GitBuddy](https://github.com/Rohan1030/GitBuddy)** – AI-powered tool to write, refactor & push code directly to GitHub  
-🔹 **[Cosmo Travel](https://cosmo-travel-hub.netlify.app)** – Responsive travel site with maps & filters  
-🔹 **Practice Projects:** [Rock Paper Scissor](http://rock-paper-gamee.netlify.app) | [YouTube Clone](http://youtuberohan.netlify.app) | [Amazon Clone](https://amazon-ecommerce54.netlify.app)  
+**AI Tools I Use:**  
+`OpenAI API` | `Lyzr Agent Platform` | `Bolt.new` | `Crew AI` | `Lovable AI` | `v0.dev` | `n8n`  
 
 ---
 
-## 🏆 Hackathon Highlight  
+## 🚀 Projects  
+
+### 🔹 [GitBuddy](https://github.com/Rohan1030/GitBuddy)  
+AI-powered tool to write, refactor, and push code directly to GitHub.  
+- ⚡ GitHub OAuth authentication  
+- 🤖 Lyzr AI for intelligent code suggestions  
+- 📤 Seamless Git commit & push flow  
+
+### 🔹 [Cosmo Travel](https://cosmo-travel-hub.netlify.app)  
+Responsive travel site for city exploration & trip planning.  
+- 🗺️ Interactive maps & filters  
+- 📱 Mobile-first design with reusable components  
+
+### 🔹 [Practice Projects]  
+- 🎮 [Rock Paper Scissor](http://rock-paper-gamee.netlify.app) – Simple DOM logic game  
+- 📺 [YouTube Clone](http://youtuberohan.netlify.app) – YouTube homepage UI clone  
+- 🛒 [Amazon Clone](https://amazon-ecommerce54.netlify.app) – E-commerce homepage with cart logic  
+
+---
+
+## 🏆 Hackathon Experience  
 
 **AI/ML Hackathon 2.0 – Parul University & myOnsite Healthcare (2025)**  
 - Built **Dr. AI – Personal Health Assistant**  
 - Explained patient health details & suggested next steps  
 - Tech: **React + Supabase**  
+
+---
+
+## 📜 Certifications  
+- ✅ Java (Basic) – HackerRank  
+- ✅ MySQL Bootcamp – LetsUpgrade  
+- ✅ Computer Networks – NPTEL  
 
 ---
 
@@ -66,3 +95,8 @@
 - 💡 Believer in **learning by building**  
 
 ---
+
+<!-- Cool Coding Animation -->
+<p align="center">
+  <img src="https://i.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
+</p>
