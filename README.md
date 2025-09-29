@@ -1,102 +1,123 @@
-<!-- Animated Programmer Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm Rohan Kumar Sharma</h1>
-<h3 align="center">🚀 MERN Stack Developer | 🤖 AI-Assisted Development | 🌍 Open Source Enthusiast</h3>
-
----
-
-<!-- Matrix Animation -->
-<p align="center">
-  <img src="https://i.giphy.com/media/eCqFYAVjjDksg/giphy.gif" width="600" height="300" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/rohan-kumar-sharma-a70567201/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://github.com/Rohan1030"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://leetcode.com/u/Rohan1030/"><img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode"/></a>
-</p>
-
----
-
-## 👨‍🎓 About Me  
-- 🎓 **B.Tech in Computer Science @ Parul University, Gujarat (CGPA: 7.25)**  
-- 💻 Passionate about **MERN Stack** & **AI-assisted coding**  
-- 🧠 Skilled in **DSA, OOP, DBMS, OS, CN, REST APIs**  
-- 🔬 Exploring **AI Agents, OpenAI, and Lyzr** to boost productivity  
-- ⚡ Love building **responsive web apps** & solving real-world problems  
-
----
-
-## 🛠️ Tech Stack  
+<h1 align="center">Hi there, I'm <span style="color:#facc15;">Rohan Kumar Sharma</span> 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,sql,html,css,tailwind,react,nodejs,express,mongodb,mysql,supabase,git,github,vscode,postman,figma,netlify&theme=dark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=MERN+Stack+Developer;Passionate+about+Web+Development;Interested+in+AI-Assisted+Development!" alt="Typing SVG" />
 </p>
-
-**AI Tools I Use:**  
-`OpenAI API` | `Lyzr Agent Platform` | `Bolt.new` | `Crew AI` | `Lovable AI` | `v0.dev` | `n8n`  
-
----
-
-## 🚀 Projects  
-
-### 🔹 [GitBuddy](https://github.com/Rohan1030/GitBuddy)  
-AI-powered tool to write, refactor, and push code directly to GitHub.  
-- ⚡ GitHub OAuth authentication  
-- 🤖 Lyzr AI for intelligent code suggestions  
-- 📤 Seamless Git commit & push flow  
-
-### 🔹 [Cosmo Travel](https://cosmo-travel-hub.netlify.app)  
-Responsive travel site for city exploration & trip planning.  
-- 🗺️ Interactive maps & filters  
-- 📱 Mobile-first design with reusable components  
-
-### 🔹 [Practice Projects]  
-- 🎮 [Rock Paper Scissor](http://rock-paper-gamee.netlify.app) – Simple DOM logic game  
-- 📺 [YouTube Clone](http://youtuberohan.netlify.app) – YouTube homepage UI clone  
-- 🛒 [Amazon Clone](https://amazon-ecommerce54.netlify.app) – E-commerce homepage with cart logic  
-
----
-
-## 🏆 Hackathon Experience  
-
-**AI/ML Hackathon 2.0 – Parul University & myOnsite Healthcare (2025)**  
-- Built **Dr. AI – Personal Health Assistant**  
-- Explained patient health details & suggested next steps  
-- Tech: **React + Supabase**  
-
----
-
-## 📜 Certifications  
-- ✅ Java (Basic) – HackerRank  
-- ✅ MySQL Bootcamp – LetsUpgrade  
-- ✅ Computer Networks – NPTEL  
-
----
-
-## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan1030&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan1030&theme=tokyonight" height="160"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
 </p>
 
----
+🚀 About Me
+🎓 Pursuing 
 
-## 🎯 Fun Facts  
-- 🏏 Cricket Enthusiast  
-- 🚀 Startup Trends & AI Tools Explorer  
-- 💡 Believer in **learning by building**  
+B.Tech in Computer Science from Parul University, Vadodara.
 
----
+📚 CGPA: 
 
-<!-- Cool Coding Animation -->
+7.25.
+
+💻 Specializing in the 
+
+MERN Stack (MongoDB, Express, React, Node.js) with proficiency in DSA, REST APIs, and Git/GitHub.
+
+🌱 Interested in AI-assisted development and exploring new AI tools.
+
+
+🛠️ Tech Stack
 <p align="center">
-  <img src="https://i.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,tailwind,mysql,supabase,git,github,figma,postman,vscode" alt="Tech Stack" />
 </p>
+
+
+Languages: Java, JavaScript, SQL 
+
+
+CS Concepts: DSA, OOP, DBMS, OS, CN, REST APIs 
+
+
+Frontend: HTML5, CSS3, Tailwind CSS, React.js 
+
+
+Backend: Node.js, Express.js, MongoDB, Supabase, Mysql 
+
+
+Tools: VS Code, Git, GitHub, Figma, Postman, Lyzr, Netlify, Render 
+
+
+AI Tools: OpenAI API, Lyzr Agent Platform, v0.dev, Crew AI 
+
+🏆 Projects Showcase
+Name	Description	Tech Stack
+GitBuddy 
+
+An AI-powered tool to write, refactor, and push code to GitHub from the browser. Features GitHub OAuth and a Lyzr AI agent for code suggestions.
+
+
+React.js, Node.js, Express.js, Lyzr AI 
+
+Dr. AI Health Assistant
+
+
+
+An AI tool built for the AI/ML Hackathon 2.0 that explains patient health details and suggests next steps.
+
+
+React, Supabase 
+
+Cosmo Travel 
+
+A responsive travel website for city exploration and trip planning. Features maps, filters, and reusable components.
+
+
+React.js, Tailwind CSS 
+
+
+Export to Sheets
+Practice Projects
+
+Amazon Clone: E-commerce homepage UI with product listing and cart logic.
+
+
+YouTube Clone: Cloned YouTube homepage UI using HTML/CSS.
+
+
+Rock Paper Scissor: A simple JavaScript game to practice DOM logic.
+
+📜 Certifications
+
+Java (Basic) - HackerRank 
+
+
+MySQL Bootcamp - LetsUpgrade 
+
+
+Computer Networks - NPTEL 
+
+📈 GitHub Stats & Trophies
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rohan1030&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohan1030&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Rohan1030&theme=onestar&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+</p>
+
+📫 Connect With Me
+<p align="center">
+<a href="mailto:rkrk02233@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rohan-kumar-sharma-a70567201/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Rohan1030/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://github.com/Rohan1030"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+🏏 Hobbies & Interests
+🧠 Following Startup trends 
+
+🤖 Exploring AI tools 
+
+🏏 Playing cricket 
+
+⭐️ If you like my work, give me a star on GitHub and let’s connect!
