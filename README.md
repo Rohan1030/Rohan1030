@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 - 🎓 Pursuing **B.Tech in Computer Science** from **Parul University, Vadodara**  
-- 📚 Current CGPA: **7.25**  
+
 - 💻 Specializing in the **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 🧠 Strong foundation in **DSA, REST APIs, OOP, DBMS, OS, CN**  
 - 🌱 Interested in **AI-assisted development** and exploring new AI tools  
