@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#facc15;">Rohan Kumar Sharma</span> 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=500&lines=MERN+Stack+Developer;Passionate+about+Web+Development;Exploring+AI-Assisted+Development!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=500&lines=Full+Stack+Developer;Passionate+about+Web+Development;Exploring+AI-Assisted+Development!" alt="Typing SVG" />
 </p>
 
 <p align="center">
